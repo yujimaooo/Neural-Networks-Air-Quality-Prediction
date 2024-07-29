@@ -1,4 +1,4 @@
-# neural-networks-air-quality-prediction
+# Neural-Networks-Air-Quality-Prediction
 
 ## Overview
 This repository contains the implementation of neural networks for AI-driven time series air quality prediction. Developed as part of the COMP9414 Artificial Intelligence course, this project leverages advanced neural network architectures for both classification and regression tasks using a tailored dataset from the UCI Machine Learning Repository.
@@ -15,8 +15,8 @@ The assignment focuses on two main objectives:
 - Split data for training and testing.
 
 ### Design of the Neural Network
-- Select and design neural architectures for both classification and regression tasks.
-- Use Keras and TensorFlow for implementation.
+- Select and design neural architectures for both classification and regression tasks
+- Use Keras and TensorFlow for implementation
 
 ### Training
 - Set training parameters: loss function, optimizer, batch size, learning rate, and epochs.
